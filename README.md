@@ -70,4 +70,13 @@ $ python BMBF.py
 
 > ijo cuman jarang 
 
-> nimkatin aja bang
+> ningkatin aja bang
+
+# By
+
+> ALLAH SWT
+> MR-HABIB-BOTZ 
+> Mr-HabibZ1
+> Imam Habib
+Terima Kasih🙏
+
