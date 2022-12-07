@@ -3,9 +3,8 @@
 
 ###>[ INFO AUTHOR AGAK GANS]<###
 #>----------------------------------------------<#
-author ='Muhammad Basari'
-github ='github.com/Basari-ID'
-facebook ='fb.me/basari.shp'
+author ='Imam Habib Modz'
+github ='github.com/Mr-HabibZ1'
 #>----------------------------------------------<#
 
 # Script Ini 100% Open Source Code Ya ! #
@@ -178,8 +177,8 @@ def banner():
 	print(f"""{h}[•]{x} {b}Basari Multi Brute Force{x} {h}[•]{x}
 {h}  ____  __  __ ____  ______ 
 {h} |  _ \|  \/  |  _ \|  ____|
- {h}| |_) | \  / | |_) | |__   
-{h} |  _ <| |\/| |  _ <|  __|  
+ {h}| |_) | \  / | |_) | |__      
+{h} |  _ <| |\/| |  _ <|  __|   BY:Imam Habib Modz
 {h} | |_) | |  | | |_) | |     
 {h} |____/|_|  |_|____/|_| {O}V.01     {x}""")
 	print(f'{b}========================================{x}')
